@@ -41,9 +41,9 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 ### 📬 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/muhammad-shameer-46469929a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://web.facebook.com/muhammad.shameer.31521/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhammad_shameer01/?hl=en" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjan._.hussain/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-shameer-46469929a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shameer-46469929a" height="30" width="40" /></a>
+<a href="https://web.facebook.com/muhammad.shameer.31521/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammad.shameer.31521/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muhammad_shameer01/?hl=en" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammad_shameer01/?hl=en" height="30" width="40" /></a>
 </p>
 
 ---
