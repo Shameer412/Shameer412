@@ -53,11 +53,11 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainAnjan5&show_icons=true&locale=en&layout=compact" alt="HussainAnjan5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shameer412&show_icons=true&locale=en&layout=compact" alt="Shameer412" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HussainAnjan5&show_icons=true&locale=en" alt="HussainAnjan5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shameer412&show_icons=true&locale=en" alt="Shameer412" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAnjan5&" alt="HussainAnjan5" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shameer4125&" alt="Shameer412" /></p> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
