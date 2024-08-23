@@ -25,7 +25,7 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 
 ### 👨‍💻 Projects
 
-- **Portfolio** - [View Here](http://shameer-portfolio.surge.sh/)
+- **Portfolio** - [View Here](https://shameer-portfolio-mu.vercel.app/)
 - **HooBank Website** - [View Here](http://hoobank-new.surge.sh/)
 
 ---
