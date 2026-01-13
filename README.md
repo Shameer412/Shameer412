@@ -1,64 +1,121 @@
-
-
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="HussainAnjan5" />
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Muhammad Shameer" />
 </p>
+
 <h1 align="center">👋 Muhammad Shameer</h1>
-<h3 align="center">🖥️ Frontend Developer | MERN Stack Developer | 🎓 Computer Science</h3>
+<h3 align="center">
+🚀 Full-Stack Engineer | MERN Stack | Frontend-Focused | 🎓 Computer Science
+</h3>
 
 <p align="center">
-I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js. I build user-friendly, high-performance web applications and excel at simplifying complex problems. Known for strong teamwork and clear communication, I bring innovative ideas to each project, striving to exceed user expectations with efficient, high-quality solutions. 
-<br/>
-  <img src="https://komarev.com/ghpvc/?username=HussainAnjan5&label=Profile%20views&color=0e75b6&style=flat"  align="end" alt="HussainAnjan5" />
+I am a passionate <b>Full-Stack Engineer</b> specializing in the <b>MERN stack</b>, with strong expertise in building scalable, responsive, and user-centric web applications.  
+I enjoy transforming complex ideas into clean, efficient solutions and writing maintainable, high-quality code.  
+<br/><br/>
+💡 Strong believer in continuous learning, clean architecture, and performance-driven development.
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Shameer412&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 🚀 Skills and Expertise
+## 🧑‍💻 About Me
 
-- **MERN Stack**: MongoDB, Express, React, and Node.js
-- **Java programming**
-- **Responsive and scalable web application development**
-- **Clean and efficient coding practices**
-
----
-
-### 👨‍💻 Projects
-
-- **Portfolio** - [View Here](https://shameer-portfolio-mu.vercel.app/)
-- **HooBank Website** - [View Here](http://hoobank-new.surge.sh/)
+- 🔭 Building **full-stack web applications**
+- 🌱 Improving skills in **advanced React, backend architecture & APIs**
+- ⚡ Focused on **performance, scalability & UX**
+- 🤝 Open to **remote, freelance & collaborative opportunities**
 
 ---
 
-### 🌟 Interests
+## 🚀 Skills & Expertise
 
-- Staying up-to-date with the latest tech industry developments
-- Contributing to open-source projects
-- Collaborating with other developers on exciting projects
+### Frontend
+- React.js, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS, Styled-Components
+- Responsive & Mobile-First Design
+- UI/UX Best Practices
+
+### Backend
+- Node.js, Express.js
+- RESTful APIs & Authentication
+- MongoDB & Firebase
+- Basic experience with Laravel (PHP)
+
+### Programming Languages
+- JavaScript
+- Java
+- Python
+- C / C#
+
+### Tools & Workflow
+- Git & GitHub
+- Vite, npm
+- Postman
+- Jest
+- VS Code
 
 ---
 
-### 📬 Connect with Me
+## 👨‍💻 Featured Projects
 
-<p>
-<a href="https://www.linkedin.com/in/muhammad-shameer-46469929a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shameer-46469929a" height="30" width="40" /></a>
-<a href="https://web.facebook.com/muhammad.shameer.31521/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammad.shameer.31521/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhammad_shameer01/?hl=en" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammad_shameer01/?hl=en" height="30" width="40" /></a>
+### 🔹 Portfolio Website
+- Personal portfolio showcasing skills & projects  
+- Modern UI with responsive design  
+🔗 **Live:** https://shameer-portfolio-mu.vercel.app/
+
+### 🔹 HooBank Landing Page
+- Pixel-perfect modern landing page  
+- Fully responsive & performance optimized  
+🔗 **Live:** http://hoobank-new.surge.sh/
+
+> 📌 Explore my repositories to see more real-world projects.
+
+---
+
+## 🌟 Interests
+
+- Exploring modern web technologies
+- Open-source contribution
+- Building scalable systems
+- Learning software architecture & best practices
+
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-shameer-46469929a" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://web.facebook.com/muhammad.shameer.31521/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/muhammad_shameer01/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
 </p>
 
 ---
 
-## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,expressjs,nodejs,mongodb,firebase,java,c,cs,python,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+## 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,express,mongodb,firebase,java,python,c,cs,git,github,vscode,jest,styledcomponents,postman&perline=12)](#)
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shameer412&show_icons=true&locale=en&layout=compact" alt="Shameer412" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shameer412&show_icons=true&locale=en" alt="Shameer412" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shameer412&" alt="Shameer412" /></p> 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
-</p> 
+<img src="https://github-readme-stats.vercel.app/api?username=Shameer412&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shameer412&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shameer412&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
