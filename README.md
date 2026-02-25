@@ -8,9 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🤖+AI-Assisted+Dev+%7C+Vibe+Coder;🏗️+Complex+System+Design+for+Startups;📊+SaaS+Products+%26+CRM+Platforms;🗄️+Database+Architecture+%2B+Backend+APIs;💎+Interactive+%26+Animated+Frontend+UIs;🚀+Open+to+Remote+Startup+Roles" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=AI-Assisted+Developer+%7C+Vibe+Coder;SaaS+%26+CRM+Product+Builder;Complex+System+Design+for+Startups;Database+Architecture+%2B+Backend+APIs;Interactive+%26+Animated+Frontend+UIs;Open+to+Remote+Startup+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
